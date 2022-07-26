@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ExampleAssembly
 {
-    [BepInPlugin("Tabg Cheat", "Foxyy#6696", "1.0.0.0")]
+    [BepInPlugin("Tabg-Cheat", "Foxyy#6696", "1.0.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         [DllImport("kernel32")]
