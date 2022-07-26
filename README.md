@@ -11,4 +11,4 @@ Install guide:
 2. Drag and drop in the game dir.
 3. Open the game and wait until you see the menu, close the game.
 4. go to \SteamLibrary\steamapps\common\TotallyAccurateBattlegrounds\BepInEx\plugins and drop the compiled dll there.
-5. start game join match and fuck the up :)
+5. start game join match.
